@@ -21,7 +21,7 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 
 <details><summary>About My Project</summary>
   
-  Currenty I'm working on ZeroRaid in the ZeroStudios, go checkout our project!".
+  Currenty I'm working on ZeroRaid in the ZeroStudios, go checkout our project!
   
   
   WebSite: https://ZeroRaid.ml/
@@ -29,6 +29,8 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
   Discord: http://discord.ZeroRaid.ml/
   
   Wiki: https://docs.ZeroRaid.ml/
+  
+  Verified Bot Invite Link: http://invite.ZeroRaid.ml/  
 </details>
 
 <details><summary>Statistics of this game so far</summary>
