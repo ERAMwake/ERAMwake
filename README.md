@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 Hello there!
 
 I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/197626.png" width="13"/> Italy. I'm currently learning Java, I know other language like CSS and HTML. I enjoy coding for fun 😋 and I'm the Manager of ZeroRaid Discord Bot Project🎈.
 
