@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/197626.png" width="13"/> Italy. I'm currently learning Java, I know other language like CSS and HTMl. I enjoy coding for fun😋 and making Discord Bot Project🎈.
+I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/197626.png" width="13"/> Italy. I'm currently learning Java, I know other language like CSS and HTML. I enjoy coding for fun 😋 and I'm the Manager of ZeroRaid Discord Bot Project🎈.
 
 <h3>🔍 Where to find me</h3>
 <a href="https://github.com/ERAMwake" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -21,7 +21,14 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 
 <details><summary>About My Project</summary>
   
-  Currently i don't have plan for make stuff on github or pubblish something".
+  Currenty I'm working on ZeroRaid in the ZeroStudios, go checkout our project!".
+  
+  
+  WebSite: https://ZeroRaid.ml/
+  
+  Discord: http://discord.ZeroRaid.ml/
+  
+  Wiki: https://docs.ZeroRaid.ml/
 </details>
 
 <details><summary>Statistics of this game so far</summary>
