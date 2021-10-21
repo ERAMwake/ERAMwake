@@ -7,7 +7,7 @@ I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/1
 <a href="https://discord.gg/AHFH7NGXDU" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%23121000.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
 </p>
 
-### 🎮 Let's play Pokémon togethe!r~
+### 🎮 Let's play Pokémon together!~
 <img src="https://toy.aoaoao.me/image" width="300"/> 
 
 <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/ERAMwake"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
