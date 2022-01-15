@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/197626.png" width="13"/> Italy. I'm currently learning Java, I know other language like CSS and HTML. I enjoy coding for fun 😋 and I'm the Manager of ZeroRaid Discord Bot Project🎈.
+I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/197626.png" width="13"/> Italy. I'm a Java Developer. I enjoy coding for fun 😋 and I'm working on AkamiBooter, a powerful stressing Tool for testing the security of networks🎈.
 
 <h3>🔍 Where to find me</h3>
 <a href="https://github.com/ERAMwake" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
