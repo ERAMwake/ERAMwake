@@ -4,7 +4,7 @@ I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/1
 
 <h3>🔍 Where to find me</h3>
 <a href="https://github.com/ERAMwake" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://discord.gg/AHFH7NGXDU" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%23121000.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
+<a href="https://discord.gg/Jaby75dZwY" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%23121000.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
 </p>
 
 ### 🎮 Let's play Pokémon together!~
@@ -18,20 +18,6 @@ I'm a developer born in <img src="https://image.flaticon.com/icons/png/512/197/1
 -----
 
 Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
-
-<details><summary>About My Project</summary>
-  
-  Currenty I'm working on ZeroRaid in the ZeroStudios, go checkout our project!
-  
-  
-  WebSite: https://ZeroRaid.ml/
-  
-  Discord: http://discord.ZeroRaid.ml/
-  
-  Wiki: https://docs.ZeroRaid.ml/
-  
-  Verified Bot Invite Link: http://invite.ZeroRaid.ml/  
-</details>
 
 <details><summary>Statistics of this game so far</summary>
   <img src="https://playground.aoaoao.me/Api/GBStatistic" />
